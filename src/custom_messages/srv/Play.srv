@@ -1,0 +1,4 @@
+float32 play_pose_x
+float32 play_pose_y
+---
+float32 play_res

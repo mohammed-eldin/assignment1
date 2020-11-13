@@ -1,0 +1,2 @@
+custom_messages:main_package
+-DCATKIN_DEVEL_PREFIX=/home/alaaeldin/EXP1/devel -DCMAKE_INSTALL_PREFIX=/home/alaaeldin/EXP1/install -G Unix Makefiles

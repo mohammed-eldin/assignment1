@@ -1,0 +1,8 @@
+prefix=/home/alaaeldin/EXP1/install
+
+Name: main_package
+Description: Description of main_package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
