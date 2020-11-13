@@ -3,7 +3,7 @@ This assignment was made for the subject Experimental Robotics Laboratory at Uni
 
 | Author Name | ID |  Email Address   |
 | ------ | ------ | -----|
-| Mohamed Qaoud | 4729321 | mohamed.lotfy@hu.edu.eg |
+| Mohamed Alaaeldin | 4844271 | mohammed.eldin.88@hotmail.com |
 
 # Assignment Description:
 
@@ -31,7 +31,7 @@ $ cd ..
 $ catkin_make
 ```
 After we ```catkin_make ``` we have to source the path in the bash file, if not already, by adding the following line in the bash file:
-``` source ~/exp_as1/devel/setup.bash ```
+``` source ~/EXP1/devel/setup.bash ```
 Then you have to bring the turtle simulation to life by:
 ```sh
 $roscore 
