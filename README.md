@@ -26,7 +26,7 @@ The turtlesim that exist in ROS was used to implement this assignment and it has
 Fisrt you have to clone this reposiroty into your src folder by doing the following:
 ```sh
 $ cd ~/your_workspace/src
-$ git clone https://github.com/Qaoud/exp_rob.git
+$ git clone https://github.com/mohammed-eldin/EXP1
 $ cd ..
 $ catkin_make
 ```
