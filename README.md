@@ -1,10 +1,6 @@
 # Experimental Robotics Laboratory - Assignment 1
 This assignment was made for the subject Experimental Robotics Laboratory at University of Genoa, Italy.
 
-| Author Name | ID |  Email Address   |
-| ------ | ------ | -----|
-| Mohamed Alaaeldin | 4844271 | mohammed.eldin.88@hotmail.com |
-
 # Assignment Description:
 
 The turtlesim that exist in ROS was used to implement this assignment and it has energy that moves control its three modes:
@@ -69,3 +65,8 @@ this will make the robot move to these coordinates.
 - ```double getDistance(double x1, double y1, double x2, double y2);``` For calculating distance between current and next location.
 - ```void updatePose(const turtlesim::Pose::ConstPtr & pose_message);``` For calling when initializing subscriber.
 - ```bool playCallBack(custom_messages::Play::Request& req, custom_messages::Play::Response& res);``` For calling when initializing rosService server.
+
+## Author
+Mohammed Alaaeldin Youssef Mahmoud
+E-mail: mohammed.eldin.88@hotmail.com
+ID: 4844271
