@@ -67,6 +67,6 @@ this will make the robot move to these coordinates.
 - ```bool playCallBack(custom_messages::Play::Request& req, custom_messages::Play::Response& res);``` For calling when initializing rosService server.
 
 ## Author
-Mohammed Alaaeldin Youssef Mahmoud
-E-mail: mohammed.eldin.88@hotmail.com
+Mohammed Alaaeldin Youssef Mahmoud/
+E-mail: mohammed.eldin.88@hotmail.com/
 ID: 4844271
